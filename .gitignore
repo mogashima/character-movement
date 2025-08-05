@@ -1,0 +1,12 @@
+# Node.jsの依存パッケージ
+node_modules/
+
+# ビルド成果物を無視
+dist/*
+
+# ただしdist/index.htmlは管理対象に戻す
+!dist/index.html
+
+# キャッシュディレクトリ（プロジェクトによって名前が違うことも）
+cache/
+.parcel-cache

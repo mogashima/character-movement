@@ -1,0 +1,27 @@
+{
+  "name": "character-movement",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogashima/character-movement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mogashima/character-movement/issues"
+  },
+  "homepage": "https://github.com/mogashima/character-movement#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4"
+  }
+}
